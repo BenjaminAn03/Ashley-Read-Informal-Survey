@@ -1,6 +1,6 @@
 body {
     background-image: url(https://images7.alphacoders.com/132/1324265.jpeg);
-    background-size:contain;
+    background-size:cover;
     background-attachment: fixed;
     color: white;
     width: auto;
